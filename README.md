@@ -6,3 +6,6 @@ Jayanth Reddy PES1UG23CS264
 K S Yeshwanth PES1UG23CS273
 
 This is a fitness tracking app, that helps you in achieving you fitness goals at your own pace from your nutrition to your workouts everything in one.
+
+
+To run this code , change directory to the miniproject directory and run node server.js on the cmd and go to localhost:3000.
